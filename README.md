@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Chika-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
+> Ditz_Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-chika](wa.me/6282244877433)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
