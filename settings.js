@@ -34,10 +34,10 @@ global.footer = 'Aditya' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.ig = 'https://instagram.com/adityarefandi_p?igshid=YmMyMTA2M2Y='
+global.mygc = 'https://chat.whatsapp.com/BTOjwo2QW3TESrV3XWcJLa'
+global.myweb = 'https://youtube.com/channel/UC4c3unHcqGs4PJ5m24Q0YsQ'
+global.email = 'adityarefandiputra001@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
