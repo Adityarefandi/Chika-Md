@@ -3024,13 +3024,13 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
             }
             case 'public': {
                 if (!isCreator) return reply(mess.owner)
-                chika.public = true
+                chika.public = false
                 reply('Sukse Change To Public Usage')
             }
             break
             case 'self': {
                 if (!isCreator) return reply(mess.owner)
-                chika.public = false
+                chika.public = true
                 reply('Sukses Change To Self Usage')
             }
             break
